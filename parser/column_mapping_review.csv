@@ -1,0 +1,495 @@
+﻿file;original_column;mapped_to
+napravleniya_2011_budget.csv;Укрупнённая группа;field_group
+napravleniya_2011_budget.csv;Вуз;university
+napravleniya_2011_budget.csv;Регион;region
+napravleniya_2011_budget.csv;Средний балл ЕГЭ (средневзвешенный);avg_score
+napravleniya_2011_budget.csv;Балл ЕГЭ самого слабого зачисленного;min_score
+napravleniya_2011_budget.csv;Всего принято на бюджетные места, чел.;enrolled
+napravleniya_2011_budget.csv;Из них: по конкурсу;enrolled_competition
+napravleniya_2011_budget.csv;по олимпиадам;enrolled_bvi
+napravleniya_2011_budget.csv;по льготам;enrolled_quota
+napravleniya_2011_budget.csv;Число поступивших по конкурсу, для которых известна сумма баллов;n_known_scores
+napravleniya_2011_paid.csv;Укрупненная группа;field_group
+napravleniya_2011_paid.csv;Вуз;university
+napravleniya_2011_paid.csv;Профиль;profile
+napravleniya_2011_paid.csv;Средний балл ЕГЭ;avg_score
+napravleniya_2011_paid.csv;Min балл;min_score
+napravleniya_2011_paid.csv;Зачислено человек;enrolled
+napravleniya_2011_paid.csv;Стоимость, руб. в год;tuition
+napravleniya_2012_budget.csv;Укрупнённая группа;field_group
+napravleniya_2012_budget.csv;Вуз;university
+napravleniya_2012_budget.csv;Средний балл зачисленных по результатам ЕГЭ 2012 (в расчете на один предмет);avg_score
+napravleniya_2012_budget.csv;Балл самого слабого из зачисленных по результатам ЕГЭ 2012;min_score
+napravleniya_2012_budget.csv;Количество студентов, зачисленных на бюджетные места;enrolled
+napravleniya_2012_budget.csv;Из них: количество студентов, зачисленных по конкурсу;enrolled_competition
+napravleniya_2012_budget.csv;Из них: олимпиадников;enrolled_bvi
+napravleniya_2012_budget.csv;Из них: льготников;enrolled_quota
+napravleniya_2012_budget.csv;Из них: целевиков;enrolled_target
+napravleniya_2012_budget.csv;Разность между средними баллами зачисленных по результатам ЕГЭ 2012 – 2011;score_change
+napravleniya_2012_budget.csv;Средний балл ЕГЭ зачисленных по конкурсу 2012 (в расчете на один предмет);avg_score_competition
+napravleniya_2012_paid.csv;Укрупнённая группа;field_group
+napravleniya_2012_paid.csv;Вуз;university
+napravleniya_2012_paid.csv;Средний балл ЕГЭ зачисленных на платные места 2012 (в расчете на один предмет);avg_score
+napravleniya_2012_paid.csv;Min балл ЕГЭ зачисленных на платные места 2012 (средний по всем направлениям);min_score
+napravleniya_2012_paid.csv;Сколько человек зачислено на платные места 2012;enrolled
+napravleniya_2012_paid.csv;Разность между ср.балл ЕГЭ зачисленных на платные места 2012 – 2011;score_change
+napravleniya_2012_paid.csv;Стоимость обучения (рублей);tuition
+napravleniya_2012_paid.csv;Средний балл зачисленных по результатам ЕГЭ 2012 (в расчете на один предмет);avg_score_budget
+napravleniya_2012_paid.csv;Кол-во зачисленных по результатам ЕГЭ 2012;enrolled_budget
+napravleniya_2012_paid.csv;Средний балл ЕГЭ зачисленных по конкурсу 2012 (в расчете на один предмет);avg_score_competition
+napravleniya_2012_paid.csv;Из них: количество студентов, зачисленных по конкурсу;enrolled_competition
+napravleniya_2013_budget.csv;Укрупнённая группа;field_group
+napravleniya_2013_budget.csv;Вуз;university
+napravleniya_2013_budget.csv;Средний балл зачисленных по результатам ЕГЭ 2013 (в расчете на один предмет);avg_score
+napravleniya_2013_budget.csv;Балл самого слабого из зачисленных по результатам ЕГЭ 2013;min_score
+napravleniya_2013_budget.csv;Количество студентов, зачисленных на бюджетные места;enrolled
+napravleniya_2013_budget.csv;Из них: количество студентов, зачисленных по конкурсу;enrolled_competition
+napravleniya_2013_budget.csv;Из них: олимпиадников;enrolled_bvi
+napravleniya_2013_budget.csv;Из них: льготников;enrolled_quota
+napravleniya_2013_budget.csv;Из них: целевиков;enrolled_target
+napravleniya_2013_budget.csv;Средний балл ЕГЭ зачисленных по конкурсу 2013 (в расчете на один предмет);avg_score_competition
+napravleniya_2013_paid.csv;Укрупнённая группа;field_group
+napravleniya_2013_paid.csv;Вуз;university
+napravleniya_2013_paid.csv;Средний балл ЕГЭ зачисленных на платные места 2013 (в расчете на один предмет);avg_score
+napravleniya_2013_paid.csv;Балл самого слабого зачисленного на платные места 2013;min_score
+napravleniya_2013_paid.csv;Сколько человек зачислено на платные места 2013;enrolled
+napravleniya_2013_paid.csv;Средний балл зачисленных по результатам ЕГЭ 2013 (в расчете на один предмет);avg_score_budget
+napravleniya_2013_paid.csv;Сколько человек зачислено на бюджетные места 2013;enrolled_budget
+napravleniya_2014_budget.csv;Укрупнённая группа;field_group
+napravleniya_2014_budget.csv;Вуз;university
+napravleniya_2014_budget.csv;Средний балл зачисленных по результатам ЕГЭ 2014 (в расчете на один предмет);avg_score
+napravleniya_2014_budget.csv;Балл самого слабого из зачисленных по результатам ЕГЭ 2014;min_score
+napravleniya_2014_budget.csv;Количество студентов, зачисленных на бюджетные места;enrolled
+napravleniya_2014_budget.csv;Из них: количество студентов, зачисленных по конкурсу;enrolled_competition
+napravleniya_2014_budget.csv;Из них: олимпиадников;enrolled_bvi
+napravleniya_2014_budget.csv;Из них: льготников;enrolled_quota
+napravleniya_2014_budget.csv;Из них: целевиков;enrolled_target
+napravleniya_2014_budget.csv;Средний балл ЕГЭ зачисленных по конкурсу 2014 (в расчете на один предмет);avg_score_competition
+napravleniya_2014_paid.csv;Укрупнённая группа;field_group
+napravleniya_2014_paid.csv;Вуз;university
+napravleniya_2014_paid.csv;Средний балл ЕГЭ зачисленных на платные места 2014 (в расчете на один предмет);avg_score
+napravleniya_2014_paid.csv;Сколько человек зачислено на платные места 2014;enrolled
+napravleniya_2014_paid.csv;Стоимость обучения 2014;tuition
+napravleniya_2014_paid.csv;Средний балл зачисленных по результатам ЕГЭ 2014 (в расчете на один предмет);avg_score_budget
+napravleniya_2014_paid.csv;Сколько человек зачислено на бюджетные места 2014;enrolled_budget
+napravleniya_2015_budget.csv;Укрупнённая группа;field_group
+napravleniya_2015_budget.csv;Вуз;university
+napravleniya_2015_budget.csv;Средний балл ЕГЭ зачисленных на бюджет 2015;avg_score
+napravleniya_2015_budget.csv;Количество студентов, зачисленных на бюджетные места;enrolled
+napravleniya_2015_budget.csv;Из них: количество студентов, зачисленных по конкурсу;enrolled_competition
+napravleniya_2015_budget.csv;Из них: олимпиадников;enrolled_bvi
+napravleniya_2015_budget.csv;Из них: по квоте;enrolled_quota
+napravleniya_2015_budget.csv;Из них: на целевые места;enrolled_target
+napravleniya_2015_budget.csv;Из них: Крым;enrolled_crimea
+napravleniya_2015_budget.csv;Средний балл ЕГЭ рассчитан с вычетом баллов за И.Д.?;id_deducted
+napravleniya_2015_budget.csv;Средний балл ЕГЭ зачисленных на бюджет 2015 (без вычета баллов за И.Д.);avg_score_no_id
+napravleniya_2015_paid.csv;Укрупнённая группа;field_group
+napravleniya_2015_paid.csv;Вуз;university
+napravleniya_2015_paid.csv;Ср.балл ЕГЭ зачисленных на платные места 2015;avg_score
+napravleniya_2015_paid.csv;Зачислено на платные места (чел.) 2015;enrolled
+napravleniya_2015_paid.csv;Стоимость обучения 2015 (тыс. рублей в год);tuition
+napravleniya_2015_paid.csv;Ср.балл ЕГЭ зачисленных на бюджетные места 2015;avg_score_budget
+napravleniya_2015_paid.csv;Зачислено на бюджетные места (чел.) 2015;enrolled_budget
+napravleniya_2015_paid.csv;Ср.балл ЕГЭ рассчитан с вычетом баллов за И.Д.?;id_deducted
+napravleniya_2015_paid.csv;Ср.балл ЕГЭ зачисленных на платные места без вычета баллов за И.Д. 2015;avg_score_no_id
+napravleniya_2016_budget.csv;Укрупнённая группа;field_group
+napravleniya_2016_budget.csv;Вуз;university
+napravleniya_2016_budget.csv;Качество приема на основе ср. балла ЕГЭ зачисленных на бюджет 2016;avg_score
+napravleniya_2016_budget.csv;Рост / падение 2015-2016 гг.;score_change
+napravleniya_2016_budget.csv;Количество студентов, зачисленных на бюджетные места;enrolled
+napravleniya_2016_budget.csv;Из них: олимпиадников;enrolled_bvi
+napravleniya_2016_budget.csv;Средний балл ЕГЭ рассчитан с вычетом баллов за И.Д.?;id_deducted
+napravleniya_2016_budget.csv;Средний балл ЕГЭ зачисленных на бюджет 2016 (без вычета баллов за И.Д.);avg_score_no_id
+napravleniya_2016_budget.csv;Балл самого слабого из зачисленных по результатам ЕГЭ 2016;min_score
+napravleniya_2016_paid.csv;Укрупнённая группа;field_group
+napravleniya_2016_paid.csv;Вуз;university
+napravleniya_2016_paid.csv;Средний балл ЕГЭ зачисленных на платные места 2016;avg_score
+napravleniya_2016_paid.csv;Рост / падение 2015-2016;score_change
+napravleniya_2016_paid.csv;Зачислено на платные места, чел. 2016;enrolled
+napravleniya_2016_paid.csv;Стоимость обучения (тыс.руб. в год);tuition
+napravleniya_2016_paid.csv;Средний балл рассчитан с вычетом баллов за И.Д.?;id_deducted
+napravleniya_2016_paid.csv;Средний балл ЕГЭ зачисленных на платные места (БЕЗ вычета И.Д.) 2016;avg_score_no_id
+napravleniya_2016_paid.csv;Средний балл ЕГЭ зачисленных на бюджет 2016;avg_score_budget
+napravleniya_2016_paid.csv;Зачислено на бюджетные места, чел. 2016;enrolled_budget
+napravleniya_2017_budget.csv;Укрупнённая группа;field_group
+napravleniya_2017_budget.csv;Вуз;university
+napravleniya_2017_budget.csv;Качество приема на основе ср. балла ЕГЭ зачисленных на бюджет 2017;avg_score
+napravleniya_2017_budget.csv;Рост / падение 2016-2017 гг.;score_change
+napravleniya_2017_budget.csv;Количество студентов, зачисленных на бюджетные места;enrolled
+napravleniya_2017_budget.csv;Из них: олимпиадников;enrolled_bvi
+napravleniya_2017_budget.csv;Средний балл ЕГЭ рассчитан с вычетом баллов за И.Д.?;id_deducted
+napravleniya_2017_paid.csv;Укрупнённая группа;field_group
+napravleniya_2017_paid.csv;Вуз;university
+napravleniya_2017_paid.csv;Качество приема на основе ср. балла ЕГЭ зачисленных на платные места 2017;avg_score
+napravleniya_2017_paid.csv;Рост / падение 2016-2017;score_change
+napravleniya_2017_paid.csv;Зачислено на платные места, чел. 2017;enrolled
+napravleniya_2017_paid.csv;Стоимость обучения (тыс.руб. в год);tuition
+napravleniya_2017_paid.csv;Средний балл рассчитан с вычетом баллов за И.Д.?;id_deducted
+napravleniya_2017_paid.csv;Средний балл ЕГЭ зачисленных на бюджет 2017;avg_score_budget
+napravleniya_2017_paid.csv;Зачислено на бюджетные места, чел. 2017;enrolled_budget
+napravleniya_2018_budget.csv;Укрупнённая группа;field_group
+napravleniya_2018_budget.csv;Вуз;university
+napravleniya_2018_budget.csv;Качество приема на основе ср. балла ЕГЭ зачисленных на бюджетные места 2018;avg_score
+napravleniya_2018_budget.csv;Рост / падение 2017-2018;score_change
+napravleniya_2018_budget.csv;Зачислено на бюджетные места, чел. 2018;enrolled
+napravleniya_2018_budget.csv;Их них: без экзаменов, чел. 2018;enrolled_bvi
+napravleniya_2018_paid.csv;Укрупнённая группа;field_group
+napravleniya_2018_paid.csv;Вуз;university
+napravleniya_2018_paid.csv;Качество приема на основе ср. балла ЕГЭ зачисленных на платные места 2018;avg_score
+napravleniya_2018_paid.csv;Рост / падение 2017-2018;score_change
+napravleniya_2018_paid.csv;Зачислено на платные места, чел. 2018;enrolled
+napravleniya_2018_paid.csv;Стоимость обучения (тыс.руб. в год);tuition
+napravleniya_2018_paid.csv;Средний балл ЕГЭ зачисленных на бюджет 2018;avg_score_budget
+napravleniya_2018_paid.csv;Зачислено на бюджетные места, чел. 2018;enrolled_budget
+napravleniya_2019_budget.csv;Укрупнённая группа;field_group
+napravleniya_2019_budget.csv;Вуз;university
+napravleniya_2019_budget.csv;Качество приема на основании среднего балла ЕГЭ зачисленных на бюджетные места 2019;avg_score
+napravleniya_2019_budget.csv;Рост/ падение 2019-2018;score_change
+napravleniya_2019_budget.csv;Количество студентов, зачисленных на бюджетные места;enrolled
+napravleniya_2019_budget.csv;Из них: без экзаменов;enrolled_bvi
+napravleniya_2019_budget.csv;Ср.балл рассчитан с вычетом баллов за И.Д.?;id_deducted
+napravleniya_2019_paid.csv;Укрупнённая группа;field_group
+napravleniya_2019_paid.csv;Вуз;university
+napravleniya_2019_paid.csv;Качество приема на основании среднего балла ЕГЭ зачисленных на платные места 2019;avg_score
+napravleniya_2019_paid.csv;Рост / падение 2019-2018;score_change
+napravleniya_2019_paid.csv;Зачислено на платные места, чел. 2019;enrolled
+napravleniya_2019_paid.csv;Стоимость обучения (рублей);tuition
+napravleniya_2019_paid.csv;Средний балл ЕГЭ зачисленных на бюджетные места 2019;avg_score_budget
+napravleniya_2019_paid.csv;Зачислено на бюджетные места, чел. 2019;enrolled_budget
+napravleniya_2019_paid.csv;Ср.балл рассчитан с вычетом баллов за И.Д.?;id_deducted
+napravleniya_2020_budget.csv;Укрупнённая группа;field_group
+napravleniya_2020_budget.csv;Вуз;university
+napravleniya_2020_budget.csv;Качество приема на основании среднего балла ЕГЭ зачисленных на бюджетные места 2020;avg_score
+napravleniya_2020_budget.csv;Рост/ падение 2020-2019;score_change
+napravleniya_2020_budget.csv;Количество студентов, зачисленных на бюджетные места;enrolled
+napravleniya_2020_budget.csv;Из них: без экзаменов;enrolled_bvi
+napravleniya_2020_budget.csv;Ср.балл рассчитан с вычетом баллов за И.Д.?;id_deducted
+napravleniya_2020_paid.csv;Укрупнённая группа;field_group
+napravleniya_2020_paid.csv;Вуз;university
+napravleniya_2020_paid.csv;Качество приема на основании среднего балла ЕГЭ зачисленных на платные места 2020;avg_score
+napravleniya_2020_paid.csv;Рост / падение 2020-2019;score_change
+napravleniya_2020_paid.csv;Зачислено на платные места, чел. 2019;enrolled
+napravleniya_2020_paid.csv;Стоимость обучения (рублей);tuition
+napravleniya_2020_paid.csv;Средний балл ЕГЭ зачисленных на бюджетные места 2020;avg_score_budget
+napravleniya_2020_paid.csv;Зачислено на бюджетные места, чел. 2020;enrolled_budget
+napravleniya_2020_paid.csv;Ср.балл рассчитан с вычетом баллов за И.Д.?;id_deducted
+napravleniya_2021_budget.csv;Укрупнённая группа;field_group
+napravleniya_2021_budget.csv;Вуз;university
+napravleniya_2021_budget.csv;Качество приема на основании среднего балла ЕГЭ зачисленных на бюджетные места 2021;avg_score
+napravleniya_2021_budget.csv;Рост/ падение 2021-2020;score_change
+napravleniya_2021_budget.csv;Количество студентов, зачисленных на бюджетные места;enrolled
+napravleniya_2021_budget.csv;Из них: без экзаменов;enrolled_bvi
+napravleniya_2021_budget.csv;Ср.балл рассчитан с вычетом баллов за И.Д.?;id_deducted
+napravleniya_2021_paid.csv;Укрупнённая группа;field_group
+napravleniya_2021_paid.csv;Вуз;university
+napravleniya_2021_paid.csv;Качество приема на основании среднего балла ЕГЭ зачисленных на платные места 2021;avg_score
+napravleniya_2021_paid.csv;Рост / падение 2021-2020;score_change
+napravleniya_2021_paid.csv;Зачислено на платные места, чел.;enrolled
+napravleniya_2021_paid.csv;Стоимость обучения (рублей);tuition
+napravleniya_2021_paid.csv;Средний балл ЕГЭ зачисленных на бюджетные места 2021;avg_score_budget
+napravleniya_2021_paid.csv;Зачислено на бюджетные места, чел.;enrolled_budget
+napravleniya_2021_paid.csv;Ср.балл рассчитан с вычетом баллов за И.Д.?;id_deducted
+napravleniya_2022_budget.csv;Укрупнённая группа;field_group
+napravleniya_2022_budget.csv;Вуз;university
+napravleniya_2022_budget.csv;Качество приема на основании среднего балла ЕГЭ зачисленных на бюджетные места 2022;avg_score
+napravleniya_2022_budget.csv;Рост/ падение 2022-2021;score_change
+napravleniya_2022_budget.csv;Зачислено на бюджетные места, чел.;enrolled
+napravleniya_2022_budget.csv;Из них: без экзаменов;enrolled_bvi
+napravleniya_2022_budget.csv;Ср.балл рассчитан с вычетом баллов за И.Д.?;id_deducted
+napravleniya_2022_paid.csv;Укрупнённая группа;field_group
+napravleniya_2022_paid.csv;Вуз;university
+napravleniya_2022_paid.csv;Качество приема на основании среднего балла ЕГЭ зачисленных на платные места 2022;avg_score
+napravleniya_2022_paid.csv;Рост / падение 2022-2021;score_change
+napravleniya_2022_paid.csv;Зачислено на платные места, чел.;enrolled
+napravleniya_2022_paid.csv;Стоимость обучения (рублей);tuition
+napravleniya_2022_paid.csv;Средний балл ЕГЭ зачисленных на бюджетные места 2022;avg_score_budget
+napravleniya_2022_paid.csv;Зачислено на бюджетные места, чел.;enrolled_budget
+napravleniya_2022_paid.csv;Ср.балл рассчитан с вычетом баллов за И.Д.?;id_deducted
+napravleniya_2023_budget.csv;Укрупнённая группа;field_group
+napravleniya_2023_budget.csv;Вуз;university
+napravleniya_2023_budget.csv;Качество приема на основании среднего балла ЕГЭ зачисленных на бюджетные места 2023;avg_score
+napravleniya_2023_budget.csv;Рост/ падение 2023-2022;score_change
+napravleniya_2023_budget.csv;Зачислено на бюджетные места, чел.;enrolled
+napravleniya_2023_budget.csv;Из них: без экзаменов;enrolled_bvi
+napravleniya_2023_budget.csv;Ср.балл рассчитан с вычетом баллов за И.Д.?;id_deducted
+napravleniya_2023_paid.csv;Укрупнённая группа;field_group
+napravleniya_2023_paid.csv;Вуз;university
+napravleniya_2023_paid.csv;Качество приема на основании среднего балла ЕГЭ зачисленных на платные места 2023;avg_score
+napravleniya_2023_paid.csv;Рост / падение 2023-2022;score_change
+napravleniya_2023_paid.csv;Зачислено на платные места, чел.;enrolled
+napravleniya_2023_paid.csv;Стоимость обучения (рублей);tuition
+napravleniya_2023_paid.csv;Средний балл ЕГЭ зачисленных на бюджетные места 2023;avg_score_budget
+napravleniya_2023_paid.csv;Зачислено на бюджетные места, чел.;enrolled_budget
+napravleniya_2023_paid.csv;Ср.балл рассчитан с вычетом баллов за И.Д.?;id_deducted
+napravleniya_2024_budget.csv;Укрупнённая группа;field_group
+napravleniya_2024_budget.csv;Вуз;university
+napravleniya_2024_budget.csv;Качество приема на основании среднего балла ЕГЭ зачисленных на бюджетные места 2024;avg_score
+napravleniya_2024_budget.csv;Рост/ падение 2024-2023;score_change
+napravleniya_2024_budget.csv;Зачислено на бюджетные места, чел.;enrolled
+napravleniya_2024_budget.csv;Из них: без экзаменов;enrolled_bvi
+napravleniya_2024_budget.csv;Ср.балл рассчитан с вычетом баллов за И.Д.?;id_deducted
+napravleniya_2024_paid.csv;Укрупнённая группа;field_group
+napravleniya_2024_paid.csv;Вуз;university
+napravleniya_2024_paid.csv;Качество приема на основании среднего балла ЕГЭ зачисленных на платные места 2024;avg_score
+napravleniya_2024_paid.csv;Рост / падение 2024-2023;score_change
+napravleniya_2024_paid.csv;Зачислено на платные места, чел.;enrolled
+napravleniya_2024_paid.csv;Стоимость обучения (рублей);tuition
+napravleniya_2024_paid.csv;Средний балл ЕГЭ зачисленных на бюджетные места 2024;avg_score_budget
+napravleniya_2024_paid.csv;Зачислено на бюджетные места, чел.;enrolled_budget
+napravleniya_2024_paid.csv;Ср.балл рассчитан с вычетом баллов за И.Д.?;id_deducted
+napravleniya_2025_budget.csv;Укрупнённая группа;field_group
+napravleniya_2025_budget.csv;Вуз;university
+napravleniya_2025_budget.csv;Качество приема на основании среднего балла ЕГЭ зачисленных на бюджетные места 2025;avg_score
+napravleniya_2025_budget.csv;Рост/ падение 2025-2024;score_change
+napravleniya_2025_budget.csv;Количество студентов, зачисленных на бюджетные места;enrolled
+napravleniya_2025_budget.csv;Из них: БВИ (олимпиадники);enrolled_bvi
+napravleniya_2025_budget.csv;Ср.балл рассчитан с вычетом баллов за И.Д.?;id_deducted
+napravleniya_2025_paid.csv;Укрупнённая группа;field_group
+napravleniya_2025_paid.csv;Вуз;university
+napravleniya_2025_paid.csv;Качество приема на основании среднего балла ЕГЭ зачисленных на платные места 2025;avg_score
+napravleniya_2025_paid.csv;Рост / падение 2025-2024;score_change
+napravleniya_2025_paid.csv;Сколько человек зачислено на платные места 2025;enrolled
+napravleniya_2025_paid.csv;Стоимость обучения (рублей);tuition
+napravleniya_2025_paid.csv;Средний балл ЕГЭ зачисленных на бюджетные места 2025;avg_score_budget
+napravleniya_2025_paid.csv;Количество студентов, зачисленных на бюджетные места;enrolled_budget
+napravleniya_2025_paid.csv;Ср.балл рассчитан с вычетом баллов за И.Д.?;id_deducted
+vuzy_2011_budget.csv;Вуз;university
+vuzy_2011_budget.csv;Регион;region
+vuzy_2011_budget.csv;Профиль;profile
+vuzy_2011_budget.csv;Средний балл ЕГЭ;avg_score
+vuzy_2011_budget.csv;Балл ЕГЭ самогослабого зачисленного по конкурсу;min_score
+vuzy_2011_budget.csv;Зачислено на бюджетные места;enrolled
+vuzy_2011_budget.csv;Из них: по конкурсу;enrolled_competition
+vuzy_2011_budget.csv;Из них: по результатам участия в олимпиадах;enrolled_bvi
+vuzy_2011_budget.csv;"Из них: ""льготники""";enrolled_quota
+vuzy_2011_budget.csv;"Из них: ""целевики""";enrolled_target
+vuzy_2011_paid.csv;Регион;region
+vuzy_2011_paid.csv;Вуз;university
+vuzy_2011_paid.csv;Профиль;profile
+vuzy_2011_paid.csv;Средний балл ЕГЭ;avg_score
+vuzy_2011_paid.csv;Средний балл ЕГЭ самого слабого зачисленного;min_score
+vuzy_2011_paid.csv;Зачислено на платные места, чел.;enrolled
+vuzy_2012_budget.csv;Вуз;university
+vuzy_2012_budget.csv;Профиль;profile
+vuzy_2012_budget.csv;Средний балл зачисленных по результатам ЕГЭ 2012 (в расчете на один предмет);avg_score
+vuzy_2012_budget.csv;Балл самого слабого из зачисленных по результатам ЕГЭ 2012;min_score
+vuzy_2012_budget.csv;Количество студентов, зачисленных на бюджетные места;enrolled
+vuzy_2012_budget.csv;Из них: количество студентов, зачисленных по конкурсу;enrolled_competition
+vuzy_2012_budget.csv;Из них: олимпиадников;enrolled_bvi
+vuzy_2012_budget.csv;Из них: льготников;enrolled_quota
+vuzy_2012_budget.csv;Из них: целевиков;enrolled_target
+vuzy_2012_budget.csv;Разность между средними баллами зачисленных по результатам ЕГЭ 2012 – 2011;score_change
+vuzy_2012_budget.csv;Средний балл ЕГЭ зачисленных по конкурсу 2012 (в расчете на один предмет);avg_score_competition
+vuzy_2012_budget.csv;Разность между ср.балл ЕГЭ зачисленных по конкурсу 2012 – 2011;score_change_competition
+vuzy_2012_paid.csv;Вуз;university
+vuzy_2012_paid.csv;Профиль;profile
+vuzy_2012_paid.csv;Средний балл ЕГЭ зачисленных на платные места 2012 (в расчете на один предмет);avg_score
+vuzy_2012_paid.csv;Балл ЕГЭ самого слабого зачисленного на платное место 2012;min_score
+vuzy_2012_paid.csv;Сколько человек зачислено на платные места 2012;enrolled
+vuzy_2012_paid.csv;Разность между ср.балл ЕГЭ зачисленных на платные места 2012 – 2011;score_change
+vuzy_2012_paid.csv;Средний балл зачисленных по результатам ЕГЭ 2012 (в расчете на один предмет);avg_score_budget
+vuzy_2012_paid.csv;Кол-во зачисленных по результатам ЕГЭ 2012;enrolled_budget
+vuzy_2012_paid.csv;Средний балл ЕГЭ зачисленных по конкурсу 2012 (в расчете на один предмет);avg_score_competition
+vuzy_2012_paid.csv;Из них: количество студентов, зачисленных по конкурсу;enrolled_competition
+vuzy_2013_budget.csv;Вуз;university
+vuzy_2013_budget.csv;Профиль;profile
+vuzy_2013_budget.csv;Средний балл зачисленных по результатам ЕГЭ 2013 (в расчете на один предмет);avg_score
+vuzy_2013_budget.csv;Разность между средними баллами зачисленных по результатам ЕГЭ 2013 – 2012;score_change
+vuzy_2013_budget.csv;Балл самого слабого из зачисленных по результатам ЕГЭ 2013;min_score
+vuzy_2013_budget.csv;Количество студентов, зачисленных на бюджетные места;enrolled
+vuzy_2013_budget.csv;Из них: количество студентов, зачисленных по конкурсу;enrolled_competition
+vuzy_2013_budget.csv;Из них: олимпиадников;enrolled_bvi
+vuzy_2013_budget.csv;Из них: льготников;enrolled_quota
+vuzy_2013_budget.csv;Из них: целевиков;enrolled_target
+vuzy_2013_budget.csv;Средний балл ЕГЭ зачисленных по конкурсу 2013 (в расчете на один предмет);avg_score_competition
+vuzy_2013_paid.csv;Вуз;university
+vuzy_2013_paid.csv;Профиль;profile
+vuzy_2013_paid.csv;Средний балл ЕГЭ зачисленных на платные места 2013 (в расчете на один предмет);avg_score
+vuzy_2013_paid.csv;Насколько изменился средний балл зачисленных на платные места в 2013 по сравнению с 2012;score_change
+vuzy_2013_paid.csv;Балл ЕГЭ самого слабого зачисленного на платное место 2013;min_score
+vuzy_2013_paid.csv;Сколько человек зачислено на платные места 2013;enrolled
+vuzy_2013_paid.csv;Средний балл зачисленных по результатам ЕГЭ 2013 (в расчете на один предмет);avg_score_budget
+vuzy_2013_paid.csv;Сколько человек зачислено на бюджетные места 2013;enrolled_budget
+vuzy_2014_budget.csv;Вуз;university
+vuzy_2014_budget.csv;Профиль;profile
+vuzy_2014_budget.csv;Регион;region
+vuzy_2014_budget.csv;Средний балл зачисленных по результатам ЕГЭ 2014 (в расчете на один предмет);avg_score
+vuzy_2014_budget.csv;Разность между средними баллами зачисленных по результатам ЕГЭ 2014 – 2013;score_change
+vuzy_2014_budget.csv;Балл самого слабого из зачисленных по результатам ЕГЭ 2014;min_score
+vuzy_2014_budget.csv;Количество студентов, зачисленных на бюджетные места;enrolled
+vuzy_2014_budget.csv;Из них: количество студентов, зачисленных по конкурсу;enrolled_competition
+vuzy_2014_budget.csv;Из них: олимпиадников;enrolled_bvi
+vuzy_2014_budget.csv;Из них: льготников;enrolled_quota
+vuzy_2014_budget.csv;Из них: целевиков;enrolled_target
+vuzy_2014_budget.csv;Средний балл ЕГЭ зачисленных по конкурсу 2014 (в расчете на один предмет);avg_score_competition
+vuzy_2014_paid.csv;Регион;region
+vuzy_2014_paid.csv;Вуз;university
+vuzy_2014_paid.csv;Профиль;profile
+vuzy_2014_paid.csv;Средний балл ЕГЭ зачисленных на платные места 2014 (в расчете на один предмет);avg_score
+vuzy_2014_paid.csv;Насколько изменился средний балл зачисленных на платные места в 2014 по сравнению с 2013;score_change
+vuzy_2014_paid.csv;Балл самого слабого зачисленного на платное место 2013;min_score
+vuzy_2014_paid.csv;Сколько человек зачислено на платные места 2014;enrolled
+vuzy_2014_paid.csv;Средний балл зачисленных по результатам ЕГЭ 2014 (в расчете на один предмет);avg_score_budget
+vuzy_2014_paid.csv;Сколько человек зачислено на бюджетные места 2014;enrolled_budget
+vuzy_2015_budget.csv;Вуз;university
+vuzy_2015_budget.csv;Средний балл ЕГЭ зачисленных на бюджет 2015;avg_score
+vuzy_2015_budget.csv;Количество студентов, зачисленных на бюджетные места;enrolled
+vuzy_2015_budget.csv;Из них: количество студентов, зачисленных по конкурсу;enrolled_competition
+vuzy_2015_budget.csv;Из них: олимпиадников;enrolled_bvi
+vuzy_2015_budget.csv;Из них: по квоте;enrolled_quota
+vuzy_2015_budget.csv;Из них: на целевые места;enrolled_target
+vuzy_2015_budget.csv;Из них: Крым;enrolled_crimea
+vuzy_2015_budget.csv;Средний балл ЕГЭ рассчитан с вычетом баллов за И.Д.?;id_deducted
+vuzy_2015_budget.csv;Средний балл ЕГЭ зачисленных на бюджет 2015 (без вычета баллов за И.Д.);avg_score_no_id
+vuzy_2015_paid.csv;Вуз;university
+vuzy_2015_paid.csv;Ср.балл ЕГЭ зачисленных на платные места 2015;avg_score
+vuzy_2015_paid.csv;Зачислено на платные места (чел.) 2015;enrolled
+vuzy_2015_paid.csv;Насколько изменился ср.балл ЕГЭ зачисленных на платные места в 2015 по сравнению с 2014;score_change
+vuzy_2015_paid.csv;Ср.балл ЕГЭ зачисленных на бюджет 2015;avg_score_budget
+vuzy_2015_paid.csv;Зачислено на бюджетные места (чел.) 2015;enrolled_budget
+vuzy_2015_paid.csv;Ср.балл ЕГЭ рассчитан с вычетом баллов за И.Д.?;id_deducted
+vuzy_2015_paid.csv;Ср.балл ЕГЭ зачисленных на платные места (без вычета баллов за И.Д.) 2015;avg_score_no_id
+vuzy_2016_budget.csv;Вуз;university
+vuzy_2016_budget.csv;Качество приема на основе ср. балла ЕГЭ зачисленных на бюджет 2016;avg_score
+vuzy_2016_budget.csv;Рост / падение 2015-2016;score_change
+vuzy_2016_budget.csv;Количество студентов, зачисленных на бюджетные места;enrolled
+vuzy_2016_budget.csv;Из них: количество студентов, зачисленных по конкурсу;enrolled_competition
+vuzy_2016_budget.csv;Из них: олимпиадников;enrolled_bvi
+vuzy_2016_budget.csv;Из них: по квоте;enrolled_quota
+vuzy_2016_budget.csv;Из них: на целевые места;enrolled_target
+vuzy_2016_budget.csv;Из них: Крым;enrolled_crimea
+vuzy_2016_budget.csv;Средний балл ЕГЭ рассчитан с вычетом баллов за И.Д.?;id_deducted
+vuzy_2016_budget.csv;Средний балл ЕГЭ зачисленных на бюджет 2016 (без вычета баллов за И.Д.);avg_score_no_id
+vuzy_2016_budget.csv;Балл самого слабого из зачисленных по результатам ЕГЭ 2016;min_score
+vuzy_2016_paid.csv;Вуз;university
+vuzy_2016_paid.csv;Средний балл ЕГЭ зачисленных на платные места 2016;avg_score
+vuzy_2016_paid.csv;Рост / падение 2015-2016;score_change
+vuzy_2016_paid.csv;Зачислено на платные места, чел. 2016;enrolled
+vuzy_2016_paid.csv;Средний балл рассчитан с вычетом баллов за И.Д.?;id_deducted
+vuzy_2016_paid.csv;Средний балл ЕГЭ зачисленных на платные места (БЕЗ вычета И.Д.) 2016;avg_score_no_id
+vuzy_2016_paid.csv;Средний балл ЕГЭ зачисленных на бюджет 2016;avg_score_budget
+vuzy_2016_paid.csv;Зачислено на бюджетные места, чел. 2016;enrolled_budget
+vuzy_2016_paid.csv;Балл ЕГЭ самого слабого зачисленного на платное место 2016;min_score
+vuzy_2017_budget.csv;Вуз;university
+vuzy_2017_budget.csv;Качество приема на основе ср. балла ЕГЭ зачисленных на бюджет 2017;avg_score
+vuzy_2017_budget.csv;Рост / падение 2016-2017;score_change
+vuzy_2017_budget.csv;Количество студентов, зачисленных на бюджетные места;enrolled
+vuzy_2017_budget.csv;Из них: количество студентов, зачисленных по конкурсу;enrolled_competition
+vuzy_2017_budget.csv;Из них: олимпиадников;enrolled_bvi
+vuzy_2017_budget.csv;Из них: по квоте;enrolled_quota
+vuzy_2017_budget.csv;Из них: на целевые места;enrolled_target
+vuzy_2017_budget.csv;Средний балл ЕГЭ рассчитан с вычетом баллов за И.Д.?;id_deducted
+vuzy_2017_paid.csv;Вуз;university
+vuzy_2017_paid.csv;Качество приема на основании среднего балла ЕГЭ зачисленных на платные места 2017;avg_score
+vuzy_2017_paid.csv;Рост / падение 2016-2017;score_change
+vuzy_2017_paid.csv;Зачислено на платные места, чел. 2017;enrolled
+vuzy_2017_paid.csv;Средний балл рассчитан с вычетом баллов за И.Д.?;id_deducted
+vuzy_2017_paid.csv;Средний балл ЕГЭ зачисленных на бюджетные места 2017;avg_score_budget
+vuzy_2017_paid.csv;Количество студентов, зачисленных на бюджетные места;enrolled_budget
+vuzy_2018_budget.csv;Вуз;university
+vuzy_2018_budget.csv;Качество приема на основании среднего балла ЕГЭ зачисленных на бюджетные места 2018;avg_score
+vuzy_2018_budget.csv;Рост/ падение 2018-2017;score_change
+vuzy_2018_budget.csv;Количество студентов, зачисленных на бюджетные места;enrolled
+vuzy_2018_budget.csv;Из них: без экзаменов;enrolled_bvi
+vuzy_2018_budget.csv;Средний балл рассчитан с вычетом баллов за И.Д.?;id_deducted
+vuzy_2018_paid.csv;Вуз;university
+vuzy_2018_paid.csv;Качество приема на основании среднего балла ЕГЭ зачисленных на платные места 2018;avg_score
+vuzy_2018_paid.csv;Рост / падение 2017-2018;score_change
+vuzy_2018_paid.csv;Зачислено на платные места, чел. 2018;enrolled
+vuzy_2018_paid.csv;Средневзвешенная стоимость обучения;tuition
+vuzy_2018_paid.csv;Средний балл ЕГЭ зачисленных на бюджетные места 2018;avg_score_budget
+vuzy_2018_paid.csv;Зачислено на бюджетные места, чел. 2018;enrolled_budget
+vuzy_2019_budget.csv;Вуз;university
+vuzy_2019_budget.csv;Качество приема на основании среднего балла ЕГЭ зачисленных на бюджетные места 2019;avg_score
+vuzy_2019_budget.csv;Рост/ падение 2019-2018;score_change
+vuzy_2019_budget.csv;Количество студентов, зачисленных на бюджетные места;enrolled
+vuzy_2019_budget.csv;Из них: без экзаменов;enrolled_bvi
+vuzy_2019_budget.csv;Ср.балл рассчитан с вычетом баллов за И.Д.?;id_deducted
+vuzy_2019_paid.csv;Вуз;university
+vuzy_2019_paid.csv;Качество приема на основании среднего балла ЕГЭ зачисленных на платные места 2019;avg_score
+vuzy_2019_paid.csv;Рост / падение 2019-2018;score_change
+vuzy_2019_paid.csv;Зачислено на платные места, чел. 2019;enrolled
+vuzy_2019_paid.csv;Средний балл ЕГЭ зачисленных на бюджетные места 2019;avg_score_budget
+vuzy_2019_paid.csv;Зачислено на бюджетные места, чел. 2019;enrolled_budget
+vuzy_2019_paid.csv;Ср.балл рассчитан с вычетом баллов за И.Д.?;id_deducted
+vuzy_2020_budget.csv;Вуз;university
+vuzy_2020_budget.csv;Качество приема на основании среднего балла ЕГЭ зачисленных на бюджетные места 2020;avg_score
+vuzy_2020_budget.csv;Рост/ падение 2020-2019;score_change
+vuzy_2020_budget.csv;Количество студентов, зачисленных на бюджетные места;enrolled
+vuzy_2020_budget.csv;Из них: без экзаменов;enrolled_bvi
+vuzy_2020_budget.csv;Ср.балл рассчитан с вычетом баллов за И.Д.?;id_deducted
+vuzy_2020_paid.csv;Вуз;university
+vuzy_2020_paid.csv;Качество приема на основании среднего балла ЕГЭ зачисленных на платные места 2020;avg_score
+vuzy_2020_paid.csv;Рост / падение 2020-2019;score_change
+vuzy_2020_paid.csv;Зачислено на платные места, чел. 2020;enrolled
+vuzy_2020_paid.csv;Средний балл ЕГЭ зачисленных на бюджетные места 2020;avg_score_budget
+vuzy_2020_paid.csv;Зачислено на бюджетные места, чел. 2020;enrolled_budget
+vuzy_2020_paid.csv;Ср.балл рассчитан с вычетом баллов за И.Д.?;id_deducted
+vuzy_2021_budget.csv;Вуз;university
+vuzy_2021_budget.csv;Качество приема на основании среднего балла ЕГЭ зачисленных на бюджетные места 2021;avg_score
+vuzy_2021_budget.csv;Рост/ падение 2021-2020;score_change
+vuzy_2021_budget.csv;Количество студентов, зачисленных на бюджетные места 2021;enrolled
+vuzy_2021_budget.csv;Из них: без экзаменов;enrolled_bvi
+vuzy_2021_budget.csv;Ср.балл рассчитан с вычетом баллов за И.Д.?;id_deducted
+vuzy_2021_paid.csv;Вуз;university
+vuzy_2021_paid.csv;Качество приема на основании среднего балла ЕГЭ зачисленных на платные места 2021;avg_score
+vuzy_2021_paid.csv;Рост/ падение 2021-2020;score_change
+vuzy_2021_paid.csv;Зачислено на платные места, чел. 2021;enrolled
+vuzy_2021_paid.csv;Средняя стоимость обучения (руб. в год);tuition
+vuzy_2021_paid.csv;Средний балл ЕГЭ зачисленных на бюджетные места 2021;avg_score_budget
+vuzy_2021_paid.csv;Зачислено на бюджетные места, чел. 2021;enrolled_budget
+vuzy_2021_paid.csv;Ср.балл рассчитан с вычетом баллов за И.Д.?;id_deducted
+vuzy_2022_budget.csv;Вуз;university
+vuzy_2022_budget.csv;Качество приема на основании среднего балла ЕГЭ зачисленных на бюджетные места 2022;avg_score
+vuzy_2022_budget.csv;Рост/ падение 2022-2021;score_change
+vuzy_2022_budget.csv;Количество студентов, зачисленных на бюджетные места 2022;enrolled
+vuzy_2022_budget.csv;Из них: без экзаменов;enrolled_bvi
+vuzy_2022_budget.csv;Ср.балл рассчитан с вычетом баллов за И.Д.?;id_deducted
+vuzy_2022_paid.csv;Вуз;university
+vuzy_2022_paid.csv;Качество приема на основании среднего балла ЕГЭ зачисленных на платные места 2022;avg_score
+vuzy_2022_paid.csv;Рост/ падение 2022-2021;score_change
+vuzy_2022_paid.csv;Зачислено на платные места, чел. 2022;enrolled
+vuzy_2022_paid.csv;Средняя стоимость обучения (руб. в год);tuition
+vuzy_2022_paid.csv;Средний балл ЕГЭ зачисленных на бюджетные места 2022;avg_score_budget
+vuzy_2022_paid.csv;Зачислено на бюджетные места, чел. 2022;enrolled_budget
+vuzy_2022_paid.csv;Ср.балл рассчитан с вычетом баллов за И.Д.?;id_deducted
+vuzy_2023_budget.csv;Вуз;university
+vuzy_2023_budget.csv;Качество приема на основании среднего балла ЕГЭ зачисленных на бюджетные места 2023;avg_score
+vuzy_2023_budget.csv;Рост/ падение 2023-2022;score_change
+vuzy_2023_budget.csv;Количество студентов, зачисленных на бюджетные места 2023;enrolled
+vuzy_2023_budget.csv;Из них: без экзаменов;enrolled_bvi
+vuzy_2023_budget.csv;Ср.балл рассчитан с вычетом баллов за И.Д.?;id_deducted
+vuzy_2023_paid.csv;Вуз;university
+vuzy_2023_paid.csv;Качество приема на основании среднего балла ЕГЭ зачисленных на платные места 2023;avg_score
+vuzy_2023_paid.csv;Рост/ падение 2023-2022;score_change
+vuzy_2023_paid.csv;Зачислено на платные места, чел. 2023;enrolled
+vuzy_2023_paid.csv;Средний балл ЕГЭ зачисленных на бюджетные места 2023;avg_score_budget
+vuzy_2023_paid.csv;Зачислено на бюджетные места, чел. 2023;enrolled_budget
+vuzy_2023_paid.csv;Ср.балл рассчитан с вычетом баллов за И.Д.?;id_deducted
+vuzy_2024_budget.csv;Вуз;university
+vuzy_2024_budget.csv;Качество приема на основании среднего балла ЕГЭ зачисленных на бюджетные места 2024;avg_score
+vuzy_2024_budget.csv;Рост/ падение 2024-2023;score_change
+vuzy_2024_budget.csv;Количество студентов, зачисленных на бюджетные места 2024;enrolled
+vuzy_2024_budget.csv;Из них: без экзаменов;enrolled_bvi
+vuzy_2024_budget.csv;Ср.балл рассчитан с вычетом баллов за И.Д.?;id_deducted
+vuzy_2024_paid.csv;Вуз;university
+vuzy_2024_paid.csv;Качество приема на основании среднего балла ЕГЭ зачисленных на платные места 2024;avg_score
+vuzy_2024_paid.csv;Рост/ падение 2024-2023;score_change
+vuzy_2024_paid.csv;Зачислено на платные места, чел. 2024;enrolled
+vuzy_2024_paid.csv;Средний балл ЕГЭ зачисленных на бюджетные места 2024;avg_score_budget
+vuzy_2024_paid.csv;Зачислено на бюджетные места, чел. 2024;enrolled_budget
+vuzy_2024_paid.csv;Ср.балл рассчитан с вычетом баллов за И.Д.?;id_deducted
+vuzy_2025_budget.csv;Вуз;university
+vuzy_2025_budget.csv;Качество приема на основании среднего балла ЕГЭ зачисленных на бюджетные места 2025;avg_score
+vuzy_2025_budget.csv;Рост/ падение 2025-2024;score_change
+vuzy_2025_budget.csv;Количество студентов, зачисленных на бюджетные места 2025;enrolled
+vuzy_2025_budget.csv;Из них: БВИ (олимпиадники), чел. 2025;enrolled_bvi
+vuzy_2025_budget.csv;Ср.балл рассчитан с вычетом баллов за И.Д.?;id_deducted
+vuzy_2025_paid.csv;Вуз;university
+vuzy_2025_paid.csv;Качество приема на основании среднего балла ЕГЭ зачисленных на платные места 2025;avg_score
+vuzy_2025_paid.csv;Рост/ падение 2025-2024;score_change
+vuzy_2025_paid.csv;Зачислено на платные места, чел. 2025;enrolled
+vuzy_2025_paid.csv;Средняя стоимость обучения (руб. в год);tuition
+vuzy_2025_paid.csv;Средний балл ЕГЭ зачисленных на бюджетные места 2025;avg_score_budget
+vuzy_2025_paid.csv;Зачислено на бюджетные места, чел. 2025;enrolled_budget
+vuzy_2025_paid.csv;Ср.балл рассчитан с вычетом баллов за И.Д.?;id_deducted
