@@ -1,0 +1,126 @@
+{
+  "Данные по вузам": {
+    "2011": {
+      "Бюджетный прием": "https://ege.hse.ru/rating/2011/41332934/gos/",
+      "Платный прием": "https://ege.hse.ru/rating/2011/105059537/gos/"
+    },
+    "2012": {
+      "Бюджетный прием": "https://ege.hse.ru/rating/2012/44361765/gos/",
+      "Платный прием": "https://ege.hse.ru/rating/2012/46053766/gos/"
+    },
+    "2013": {
+      "Бюджетный прием": "https://ege.hse.ru/rating/2013/48994839/gos/",
+      "Платный прием": "https://ege.hse.ru/rating/2013/50585497/gos/"
+    },
+    "2014": {
+      "Бюджетный прием": "https://ege.hse.ru/rating/2014/53497368/gos/",
+      "Платный прием": "https://ege.hse.ru/rating/2014/53497411/gos/"
+    },
+    "2015": {
+      "Бюджетный прием": "https://ege.hse.ru/rating/2015/64149278/gos/",
+      "Платный прием": "https://ege.hse.ru/rating/2015/65122482/gos/"
+    },
+    "2016": {
+      "Бюджетный прием": "https://ege.hse.ru/rating/2016/68395231/gos/?rlist=&uplist=&vuz-abiturients-budget-order=ge&vuz-abiturients-budget-val=300",
+      "Платный прием": "https://ege.hse.ru/rating/2016/68409518/gos/"
+    },
+    "2017": {
+      "Бюджетный прием": "https://ege.hse.ru/rating/2017/72157641/gos/?rlist=&uplist=&vuz-abiturients-budget-order=ge&vuz-abiturients-budget-val=300",
+      "Платный прием": "https://ege.hse.ru/rating/2017/72157675/gos/"
+    },
+    "2018": {
+      "Бюджетный прием": "https://ege.hse.ru/rating/2018/75767740/all/",
+      "Платный прием": "https://ege.hse.ru/ege/rating/2018/77479751/all/"
+    },
+    "2019": {
+      "Бюджетный прием": "https://ege.hse.ru/rating/2019/81031971/all/?rlist=&ptype=0&vuz-abiturients-budget-order=ge&vuz-abiturients-budget-val=10",
+      "Платный прием": "https://ege.hse.ru/rating/2019/81050684/all/?rlist=&ptype=0&vuz-abiturients-paid-order=ge&vuz-abiturients-paid-val=10"
+    },
+    "2020": {
+      "Бюджетный прием": "https://ege.hse.ru/rating/2020/84025292/all/",
+      "Платный прием": "https://ege.hse.ru/rating/2020/84025315/all/"
+    },
+    "2021": {
+      "Бюджетный прием": "https://ege.hse.ru/rating/2021/87872953/all/?rlist=&ptype=0&vuz-abiturients-budget-order=ge&vuz-abiturients-budget-val=300",
+      "Платный прием": "https://ege.hse.ru/rating/2021/87872976/all/?rlist=&ptype=0&vuz-abiturients-paid-order=ge&vuz-abiturients-paid-val=100"
+    },
+    "2022": {
+      "Бюджетный прием": "https://ege.hse.ru/ege/rating/2022/91645021/all/",
+      "Платный прием": "https://ege.hse.ru/ege/rating/2022/91645044/all/"
+    },
+    "2023": {
+      "Бюджетный прием": "https://ege.hse.ru/rating/2023/95405408/all/?rlist=&ptype=0&vuz-abiturients-budget-order=ge&vuz-abiturients-budget-val=100",
+      "Платный прием": "https://ege.hse.ru/ege/rating/2023/95405431/all/"
+    },
+    "2024": {
+      "Бюджетный прием": "https://ege.hse.ru/rating/2024/98607722/all/",
+      "Платный прием": "https://ege.hse.ru/rating/2024/98607745/all/"
+    },
+    "2025": {
+      "Бюджетный прием": "https://ege.hse.ru/ege/rating/2025/102338950/all/",
+      "Платный прием": "https://ege.hse.ru/ege/rating/2025/102338975/all/"
+    }
+  },
+  "Данные по направлениям подготовки": {
+    "2011": {
+      "Бюджетный прием": "https://ege.hse.ru/rating/2011/41332992/gos/",
+      "Платный прием": "https://ege.hse.ru/rating/2011/41333661/gos/"
+    },
+    "2012": {
+      "Бюджетный прием": "https://ege.hse.ru/rating/2012/44754396/gos/",
+      "Платный прием": "https://ege.hse.ru/rating/2012/46053389/gos/"
+    },
+    "2013": {
+      "Бюджетный прием": "https://ege.hse.ru/rating/2013/48994872/gos/",
+      "Платный прием": "https://ege.hse.ru/rating/2013/50585538/gos/"
+    },
+    "2014": {
+      "Бюджетный прием": "https://ege.hse.ru/rating/2014/53497441/gos/",
+      "Платный прием": "https://ege.hse.ru/rating/2014/53497475/gos/"
+    },
+    "2015": {
+      "Бюджетный прием": "https://ege.hse.ru/rating/2015/64159691/gos/",
+      "Платный прием": "https://ege.hse.ru/rating/2015/65123590/gos/"
+    },
+    "2016": {
+      "Бюджетный прием": "https://ege.hse.ru/rating/2016/68401552/gos/?rlist=&uplist=&glist=0&vuz-abiturients-budget-order=ge&vuz-abiturients-budget-val=10",
+      "Платный прием": "https://ege.hse.ru/rating/2016/68409549/gos/?rlist=&uplist=&glist=0&vuz-abiturients-paid-order=ge&vuz-abiturients-paid-val=10&price-order=ge&price-val="
+    },
+    "2017": {
+      "Бюджетный прием": "https://ege.hse.ru/rating/2017/72157740/gos/?rlist=&uplist=&glist=0&vuz-abiturients-budget-order=ge&vuz-abiturients-budget-val=10",
+      "Платный прием": "https://ege.hse.ru/rating/2017/72157769/gos/?rlist=&uplist=&glist=0&vuz-abiturients-paid-order=ge&vuz-abiturients-paid-val=10&price-order=ge&price-val="
+    },
+    "2018": {
+      "Бюджетный прием": "https://ege.hse.ru/rating/2018/75767645/all/",
+      "Платный прием": "https://ege.hse.ru/ege/rating/2018/77479782/all/"
+    },
+    "2019": {
+      "Бюджетный прием": "https://ege.hse.ru/rating/2019/81058583/all/?rlist=&ptype=0&glist=0&vuz-abiturients-budget-order=ge&vuz-abiturients-budget-val=10",
+      "Платный прием": "https://ege.hse.ru/rating/2019/81058609/all/?rlist=&uplist=&glist=0&vuz-abiturients-paid-order=ge&vuz-abiturients-paid-val=10&price-order=ge&price-val="
+    },
+    "2020": {
+      "Бюджетный прием": "https://ege.hse.ru/rating/2020/84025342/all/",
+      "Платный прием": "https://ege.hse.ru/rating/2020/84025368/all/"
+    },
+    "2021": {
+      "Бюджетный прием": "https://ege.hse.ru/ege/rating/2021/87901158/all/",
+      "Платный прием": "https://ege.hse.ru/ege/rating/2021/87901186/all/"
+    },
+    "2022": {
+      "Бюджетный прием": "https://ege.hse.ru/ege/rating/2022/91645072/all/",
+      "Платный прием": "https://ege.hse.ru/ege/rating/2022/91645099/all/"
+    },
+    "2023": {
+      "Бюджетный прием": "https://ege.hse.ru/ege/rating/2023/95405465/all/",
+      "Платный прием": "https://ege.hse.ru/ege/rating/2023/95405491/all/"
+    },
+    "2024": {
+      "Бюджетный прием": "https://ege.hse.ru/ege/rating/2024/98633952/all/",
+      "Платный прием": "https://ege.hse.ru/ege/rating/2024/98633979/all/"
+    },
+    "2025": {
+      "Бюджетный прием": "https://ege.hse.ru/ege/rating/2025/102339002/all/",
+      "Платный прием": "https://ege.hse.ru/ege/rating/2025/102339030/all/"
+    }
+  }
+}
