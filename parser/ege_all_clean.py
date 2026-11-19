@@ -1,7 +1,7 @@
 import pandas as pd
 
 # low_memory=False убирает DtypeWarning о смешанных типах
-data = pd.read_csv("ege_all.csv", sep=";", encoding="utf-8-sig", low_memory=False)
+data = pd.read_csv("../ege_all.csv", sep=";", encoding="utf-8-sig", low_memory=False)
 
 # 1) Мусорная стоимость: реальная плата не бывает < 2 тыс. руб./год
 susp = data[data["tuition"].notna() & (data["tuition"] < 2000)]

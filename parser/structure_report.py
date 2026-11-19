@@ -3,7 +3,7 @@ import json
 from collections import defaultdict
 from pathlib import Path
 
-DATA_DIR = Path("data")
+DATA_DIR = Path("../data")
 OUT = Path("structure_report.json")  # в корне проекта, не в data/
 
 report = []

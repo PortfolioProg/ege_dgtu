@@ -3,8 +3,8 @@ from pathlib import Path
 
 import pandas as pd
 
-DATA_DIR = Path("data")
-OUT_ALL = Path("ege_all.csv")          # вне data/
+DATA_DIR = Path("../data")
+OUT_ALL = Path("../ege_all.csv")          # вне data/
 REVIEW = Path("column_mapping_review.csv")
 
 META = ["category", "year", "admission_type"]

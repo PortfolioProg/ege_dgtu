@@ -1,6 +1,6 @@
 import pandas as pd
 
-data = pd.read_csv("ege_all.csv", sep=";", encoding="utf-8-sig")
+data = pd.read_csv("../ege_all.csv", sep=";", encoding="utf-8-sig")
 
 print("1) score_change_competition заполнена только в:")
 print(data.loc[data["score_change_competition"].notna(), "source_file"].value_counts())

@@ -6,7 +6,7 @@ from pathlib import Path
 import pandas as pd
 from playwright.sync_api import sync_playwright
 
-DATA_DIR = Path("data")
+DATA_DIR = Path("../data")
 JSON_PATH = DATA_DIR / "ege_hse_tables.json"
 SKIP_EXISTING = True  # не скачивать повторно уже сохранённые таблицы
 

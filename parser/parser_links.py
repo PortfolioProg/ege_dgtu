@@ -55,11 +55,11 @@ data, menu_original = collect()
 n = sum(len(v) for b in data.values() for v in b.values())
 assert n == 60, f"Ожидалось 60 ссылок, получено {n}"
 
-with open("data/ege_hse_tables.json", "w", encoding="utf-8") as f:
+with open("../data/ege_hse_tables.json", "w", encoding="utf-8") as f:
     json.dump(data, f, ensure_ascii=False, indent=2)
 
 # запасной файл: ссылки ровно в том виде, в каком они стоят в меню сайта (с фильтрами)
-with open("data/ege_hse_tables_menu_original.json", "w", encoding="utf-8") as f:
+with open("../data/ege_hse_tables_menu_original.json", "w", encoding="utf-8") as f:
     json.dump(menu_original, f, ensure_ascii=False, indent=2)
 
 print(f"Готово: {n} ссылок сохранены в ege_hse_tables.json")
